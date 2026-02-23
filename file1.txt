@@ -1,0 +1,9 @@
+Sprint IT List of Courses
+1. :DevOps+AWS
+2. MIcrosoft Cloud
+3. Python
+4. Full stack JAva
+5. Machine Learning
+6. .net
+7. PL&SQL
+8. Testing
