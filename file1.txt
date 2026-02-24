@@ -8,3 +8,4 @@ Sprint IT List of Courses
 7. PL&SQL
 8. Testing
 9. HADOOP
+10.Orcale full stack
