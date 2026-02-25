@@ -12,4 +12,9 @@ Sprint IT List of Courses
 11. MLOPS
 12. JAVA + Springboot
 13. AI TOOLS
+<<<<<<< HEAD
 14. New courses for SPRINT IT
+=======
+14. PYTHON with AI
+15. JAVA with full stack.....etc.
+>>>>>>> a178fb8d95eb5623515f8943e0d9b9cf925d18f4
