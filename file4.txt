@@ -1,0 +1,1 @@
+We are trying to understand the git stash command use case.
